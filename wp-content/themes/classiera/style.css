@@ -1,0 +1,26 @@
+/*
+Theme Name: Classiera
+Theme URI: http://themeforest.net/item/classiera-classified-ads-wordpress-theme/14138208?ref=JoinWe
+Description: Classiera Classified Ads WordPress Theme.
+Text Domain: classiera
+Version: 4.0.13
+Author: JoinWebs
+Author URI: https://themeforest.net/user/joinwebs
+Requires at least: 4.7
+Requires PHP: 5.2.4
+Tested up to: 7.2
+License: Themeforest License
+License URI: https://themeforest.net/licenses
+Tags: one-column, two-columns, left-sidebar, right-sidebar,custom-menu, full-width-template, rtl-language-support, theme-options, translation-ready
+*/
+/*=========
+Please do not add your styles in this file and instead use 
+child theme.
+===========*/
+.classiera-navbar.classiera-navbar-v6 .navbar-default .login-reg a:last-of-type {
+    border-color: #d32323 !important;
+}
+.classiera-navbar.classiera-navbar-v6 .navbar-default .login-reg a:last-of-type{
+	color: #d32323;
+}
+

@@ -1,0 +1,925 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Classiera Helper\n"
+"POT-Creation-Date: 2020-05-31 00:27+0500\n"
+"PO-Revision-Date: 2020-05-31 00:27+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: classiera-helper.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: classiera-helper.php:83
+msgctxt "post type general name"
+msgid "Pricing Plans"
+msgstr ""
+
+#: classiera-helper.php:84
+msgctxt "post type singular name"
+msgid "Price Plans"
+msgstr ""
+
+#: classiera-helper.php:85
+msgctxt "book"
+msgid "Add New Price Plan"
+msgstr ""
+
+#: classiera-helper.php:86
+msgid "Add New Price Plan"
+msgstr ""
+
+#: classiera-helper.php:87
+msgid "Edit Price Plan"
+msgstr ""
+
+#: classiera-helper.php:88
+msgid "New Price Plan"
+msgstr ""
+
+#: classiera-helper.php:89
+msgid "View Price Plan"
+msgstr ""
+
+#: classiera-helper.php:90
+msgid "Search Price Plans"
+msgstr ""
+
+#: classiera-helper.php:91
+msgid "No Price Plan found"
+msgstr ""
+
+#: classiera-helper.php:92
+msgid "No Price Plans found in Trash"
+msgstr ""
+
+#: classiera-helper.php:120
+msgid "Is this a free plan"
+msgstr ""
+
+#: classiera-helper.php:137
+msgid "If you check this option, leave the price field below empty."
+msgstr ""
+
+#: classiera-helper.php:195
+msgid ""
+"Featured ads: How many featured ads do you want to allow with this plan?"
+msgstr ""
+
+#: classiera-helper.php:229
+msgid ""
+"Regular ads : How many regular ads do you want to allow with this plan? "
+msgstr ""
+
+#: classiera-helper.php:258
+msgid ""
+"Put your WooCommerece Product ID : The WooCommerce product price and this "
+"plan price must be of the same value."
+msgstr ""
+
+#: classiera-helper.php:269
+msgid "Product ID"
+msgstr ""
+
+#: classiera-helper.php:295
+msgid "Days : Days: How many days ads will be shown at the premium place."
+msgstr ""
+
+#: classiera-helper.php:327 classiera-helper.php:361 classiera-helper.php:409
+msgid "Replace the default text with your own."
+msgstr ""
+
+#: classiera-helper.php:338
+msgid "Start the free trial with Classiera"
+msgstr ""
+
+#: classiera-helper.php:372
+msgid "Featured ad posting"
+msgstr ""
+
+#: classiera-helper.php:420
+msgid "100% Secure!"
+msgstr ""
+
+#: classiera-helper.php:457
+msgid "Price :Don&rsquo;t put a currency tag"
+msgstr ""
+
+#: classiera-helper.php:470
+msgid "Ex:5"
+msgstr ""
+
+#: classiera-helper.php:492
+msgid ""
+"Enter a USERNAME to cancel this plan for a particular user (leave empty for "
+"no cancellation)"
+msgstr ""
+
+#: classiera-helper.php:502
+msgid "Enter a USERNAM"
+msgstr ""
+
+#: classiera-helper.php:547
+msgid ""
+"Enter a USERNAME to assign this plan for a particular user (leave empty for "
+"no assignment)."
+msgstr ""
+
+#: classiera-helper.php:557
+msgid "Enter a USERNAME"
+msgstr ""
+
+#: classiera-helper.php:603
+msgid "Most popular plan"
+msgstr ""
+
+#: classiera-helper.php:633
+msgctxt "taxonomy general name"
+msgid "Blog Categories"
+msgstr ""
+
+#: classiera-helper.php:634
+msgctxt "classiera-helper"
+msgid "Blog Category"
+msgstr ""
+
+#: classiera-helper.php:635
+msgid "Search Blogs Categories"
+msgstr ""
+
+#: classiera-helper.php:636
+msgid "All Blog Categories"
+msgstr ""
+
+#: classiera-helper.php:637
+msgid "Parent Blog Category"
+msgstr ""
+
+#: classiera-helper.php:638
+msgid "Parent Blog Category:"
+msgstr ""
+
+#: classiera-helper.php:639
+msgid "Edit Blog Category"
+msgstr ""
+
+#: classiera-helper.php:640
+msgid "Update Blog Category"
+msgstr ""
+
+#: classiera-helper.php:641
+msgid "Add new Blog Category"
+msgstr ""
+
+#: classiera-helper.php:642
+msgid "New Blog Category"
+msgstr ""
+
+#: classiera-helper.php:643 includes/widgets/blog-categories.php:5
+msgid "Blog Categories"
+msgstr ""
+
+#: classiera-helper.php:654
+msgctxt "post type general name"
+msgid "Blog"
+msgstr ""
+
+#: classiera-helper.php:655
+msgctxt "post type singular name"
+msgid "Blog"
+msgstr ""
+
+#: classiera-helper.php:656
+msgctxt "book"
+msgid "Add new Blog Post"
+msgstr ""
+
+#: classiera-helper.php:657
+msgid "Add new Blog Post"
+msgstr ""
+
+#: classiera-helper.php:658
+msgid "Edit Blog Post"
+msgstr ""
+
+#: classiera-helper.php:659
+msgid "New Blog Post"
+msgstr ""
+
+#: classiera-helper.php:660
+msgid "View Blog Post"
+msgstr ""
+
+#: classiera-helper.php:661
+msgid "Search Blog Post"
+msgstr ""
+
+#: classiera-helper.php:662
+msgid "No Blog Post found"
+msgstr ""
+
+#: classiera-helper.php:663
+msgid "No Blog Post found in Trash"
+msgstr ""
+
+#: classiera-helper.php:763
+msgid "Phone"
+msgstr ""
+
+#: classiera-helper.php:764
+msgid "Mobile"
+msgstr ""
+
+#: classiera-helper.php:766
+msgid "Address"
+msgstr ""
+
+#: classiera-helper.php:768
+msgid "Facebook"
+msgstr ""
+
+#: classiera-helper.php:769
+msgid "Instagram"
+msgstr ""
+
+#: classiera-helper.php:770
+msgid "Twitter"
+msgstr ""
+
+#: classiera-helper.php:771
+msgid "Google Plus"
+msgstr ""
+
+#: classiera-helper.php:772
+msgid "Linkedin"
+msgstr ""
+
+#: classiera-helper.php:773
+msgid "Pinterest"
+msgstr ""
+
+#: classiera-helper.php:774
+msgid "Vimeo"
+msgstr ""
+
+#: classiera-helper.php:775
+msgid "Digg"
+msgstr ""
+
+#: classiera-helper.php:776
+msgid "Behance"
+msgstr ""
+
+#: classiera-helper.php:777
+msgid "Dribbble"
+msgstr ""
+
+#: classiera-helper.php:778
+msgid "Flickr"
+msgstr ""
+
+#: classiera-helper.php:779
+msgid "Github"
+msgstr ""
+
+#: classiera-helper.php:780
+msgid "Lastfm"
+msgstr ""
+
+#: classiera-helper.php:781
+msgid "Soundcloud"
+msgstr ""
+
+#: classiera-helper.php:782
+msgid "VK"
+msgstr ""
+
+#: classiera-helper.php:783
+msgid "YouTube"
+msgstr ""
+
+#: classiera-helper.php:784
+msgid "Country"
+msgstr ""
+
+#: classiera-helper.php:785
+msgid "State"
+msgstr ""
+
+#: classiera-helper.php:786
+msgid "City"
+msgstr ""
+
+#: classiera-helper.php:787
+msgid "Postcode"
+msgstr ""
+
+#: classiera-helper.php:826 classiera-helper.php:830
+msgid "Said"
+msgstr ""
+
+#: includes/email_functions.php:42
+msgid "Your ad has been rejected"
+msgstr ""
+
+#: includes/email_functions.php:51 includes/email_functions.php:195
+msgid "Hello"
+msgstr ""
+
+#: includes/email_functions.php:56
+msgid "Unfortunately, your listing, which was posted on"
+msgstr ""
+
+#: includes/email_functions.php:56
+msgid "has been rejected."
+msgstr ""
+
+#: includes/email_functions.php:59
+msgid ""
+"This may be do to the content in your listing that goes against our Terms of "
+"Service"
+msgstr ""
+
+#: includes/email_functions.php:62
+msgid ""
+"reserve all rights to remove Ads if they are inappropriate or have content "
+"that is deemed inappropriate."
+msgstr ""
+
+#: includes/email_functions.php:65
+msgid "Please feel free to try another ad but keep it clean next time."
+msgstr ""
+
+#: includes/email_functions.php:67 includes/email_functions.php:159
+#: includes/email_functions.php:203 includes/email_functions.php:268
+#: includes/email_functions.php:717
+msgid ""
+"Please visit your dashboard to see post status. If you have any questions, "
+"opinions, praise, problems, comments or suggestions, please feel free to "
+"contact us at"
+msgstr ""
+
+#: includes/email_functions.php:67 includes/email_functions.php:159
+#: includes/email_functions.php:269 includes/email_functions.php:717
+msgid "any time!"
+msgstr ""
+
+#: includes/email_functions.php:93
+msgid "Please Approve Post"
+msgstr ""
+
+#: includes/email_functions.php:102
+msgid "Hello Admin,"
+msgstr ""
+
+#: includes/email_functions.php:107 includes/email_functions.php:145
+msgid "Hi"
+msgstr ""
+
+#: includes/email_functions.php:107
+msgid "have posted a new ads"
+msgstr ""
+
+#: includes/email_functions.php:107
+msgid "on"
+msgstr ""
+
+#: includes/email_functions.php:109
+msgid "Please approve or reject this post you’re your WordPress Dashboard."
+msgstr ""
+
+#: includes/email_functions.php:136
+msgid "Your listing has been published!"
+msgstr ""
+
+#: includes/email_functions.php:145
+msgid "Congratulations, your item has been listed."
+msgstr ""
+
+#: includes/email_functions.php:150
+msgid "Just a note to let you know your Ad"
+msgstr ""
+
+#: includes/email_functions.php:151
+msgid "has been successfully listed and is now live on the site"
+msgstr ""
+
+#: includes/email_functions.php:154
+msgid "If you like to take a look"
+msgstr ""
+
+#: includes/email_functions.php:156
+msgid "Click Here"
+msgstr ""
+
+#: includes/email_functions.php:186
+msgid "Your ad has been removed!"
+msgstr ""
+
+#: includes/email_functions.php:200
+msgid "We are just letting you know your ad has been removed from the"
+msgstr ""
+
+#: includes/email_functions.php:202
+msgid "Your post title"
+msgstr ""
+
+#: includes/email_functions.php:230
+msgid "Welcome to "
+msgstr ""
+
+#: includes/email_functions.php:241
+msgid "A very special welcome to you"
+msgstr ""
+
+#: includes/email_functions.php:246
+msgid ""
+"Our site is growing fast and we are stoked you have joined up to start "
+"Buying & Selling on"
+msgstr ""
+
+#: includes/email_functions.php:249
+msgid "A few important details for you to keep safe..!"
+msgstr ""
+
+#: includes/email_functions.php:253 includes/email_functions.php:423
+msgid "Your username is"
+msgstr ""
+
+#: includes/email_functions.php:261
+msgid "Your password is"
+msgstr ""
+
+#: includes/email_functions.php:268
+msgid "We hope you enjoy your stay at"
+msgstr ""
+
+#: includes/email_functions.php:302
+msgid "New user has been registered!"
+msgstr ""
+
+#: includes/email_functions.php:306
+msgid "Hello Admin, new user has been registered on"
+msgstr ""
+
+#: includes/email_functions.php:311
+msgid "Hello, a new user has registered on"
+msgstr ""
+
+#: includes/email_functions.php:311
+msgid "By using this email"
+msgstr ""
+
+#: includes/email_functions.php:314
+msgid "Their username is:"
+msgstr ""
+
+#: includes/email_functions.php:355
+msgid "You have received an email from"
+msgstr ""
+
+#: includes/email_functions.php:360
+msgid "Your have received this email from"
+msgstr ""
+
+#: includes/email_functions.php:364 includes/email_functions.php:609
+msgid "Sender Name"
+msgstr ""
+
+#: includes/email_functions.php:369 includes/email_functions.php:612
+msgid "Sender Email"
+msgstr ""
+
+#: includes/email_functions.php:374
+msgid "Your Post Title"
+msgstr ""
+
+#: includes/email_functions.php:379
+msgid "Your Post URL"
+msgstr ""
+
+#: includes/email_functions.php:408
+msgid "Password Reset"
+msgstr ""
+
+#: includes/email_functions.php:417
+msgid "Keep your password safe..!"
+msgstr ""
+
+#: includes/email_functions.php:431
+msgid "Your new password is"
+msgstr ""
+
+#: includes/email_functions.php:481
+msgid "New bid offer received!"
+msgstr ""
+
+#: includes/email_functions.php:490
+msgid "Congratulations, you have received a new offer for your ad"
+msgstr ""
+
+#: includes/email_functions.php:498
+msgid "Your Price was"
+msgstr ""
+
+#: includes/email_functions.php:503
+msgid "Offered Price is currently"
+msgstr ""
+
+#: includes/email_functions.php:508
+msgid "Log in to your account to reply to the user."
+msgstr ""
+
+#: includes/email_functions.php:509
+msgid "We will leave you to negotiate the deal between you both."
+msgstr ""
+
+#: includes/email_functions.php:535
+msgid "Report ad notification!"
+msgstr ""
+
+#: includes/email_functions.php:544
+msgid "Hello Admin, DMCA/Copyright"
+msgstr ""
+
+#: includes/email_functions.php:549
+msgid "Hi, someone has reported an ad which had been posted on your website."
+msgstr ""
+
+#: includes/email_functions.php:553
+msgid "Ad title is"
+msgstr ""
+
+#: includes/email_functions.php:561
+msgid "Post Link"
+msgstr ""
+
+#: includes/email_functions.php:615
+msgid "Sender Phone"
+msgstr ""
+
+#: includes/email_functions.php:636
+msgid "Your listing has now expired"
+msgstr ""
+
+#: includes/email_functions.php:649 includes/email_functions.php:705
+msgid "Hello "
+msgstr ""
+
+#: includes/email_functions.php:650
+msgid "Your featured ad has expired!"
+msgstr ""
+
+#: includes/email_functions.php:656
+msgid ""
+"Your featured ad has been removed from the featured listing. Now it is only "
+"shown in the regular listing section."
+msgstr ""
+
+#: includes/email_functions.php:660
+msgid "Post Title"
+msgstr ""
+
+#: includes/email_functions.php:664
+msgid "For more info you contact us at"
+msgstr ""
+
+#: includes/email_functions.php:667
+msgid "Or visit your profile page from"
+msgstr ""
+
+#: includes/email_functions.php:691
+msgid "Your ad have bumped up successfully"
+msgstr ""
+
+#: includes/email_functions.php:711
+msgid "Your ad has been successfully bumped up on"
+msgstr ""
+
+#: includes/email_functions.php:714
+msgid "To view your ad on the site now"
+msgstr ""
+
+#: includes/email_functions.php:715
+msgid "Click here "
+msgstr ""
+
+#: includes/page_meta.php:4
+msgid "Page Meta"
+msgstr ""
+
+#: includes/page_meta.php:16
+msgid "Page Sliders : Only for homepages"
+msgstr ""
+
+#: includes/page_meta.php:23
+msgid "Page slider"
+msgstr ""
+
+#: includes/page_meta.php:28
+msgid "none"
+msgstr ""
+
+#: includes/page_meta.php:31
+msgid "LayerSlider"
+msgstr ""
+
+#: includes/page_meta.php:35
+msgid "Select page slider."
+msgstr ""
+
+#: includes/page_meta.php:41
+msgid "LayeSlider Shortcode"
+msgstr ""
+
+#: includes/page_meta.php:46
+msgid "Enter layerslider shortcode (leave empty for):"
+msgstr ""
+
+#: includes/page_meta.php:73
+msgid "Page meta end"
+msgstr ""
+
+#: includes/post_meta.php:7
+msgid "Make it Featured post"
+msgstr ""
+
+#: includes/post_meta.php:24
+msgid "Is this a Featured ad:"
+msgstr ""
+
+#: includes/post_meta.php:83 includes/widgets/recent_posts_widget.php:282
+msgid "Price"
+msgstr ""
+
+#: includes/post_meta.php:96
+msgid "Enter the price here"
+msgstr ""
+
+#: includes/post_meta.php:128
+msgid "Location"
+msgstr ""
+
+#: includes/post_meta.php:141
+msgid "Enter the location here"
+msgstr ""
+
+#: includes/post_meta.php:171
+msgid "Latitude"
+msgstr ""
+
+#: includes/post_meta.php:185
+msgid "Enter latitude here"
+msgstr ""
+
+#: includes/post_meta.php:216
+msgid "Longitude"
+msgstr ""
+
+#: includes/post_meta.php:231
+msgid "Enter longitude here"
+msgstr ""
+
+#: includes/post_meta.php:262
+msgid "Phone no"
+msgstr ""
+
+#: includes/post_meta.php:276 includes/post_meta.php:320
+msgid "Enter phone number"
+msgstr ""
+
+#: includes/post_meta.php:306
+msgid "WhatsApp no"
+msgstr ""
+
+#: includes/post_meta.php:348
+msgctxt "post"
+msgid "Rejected"
+msgstr ""
+
+#: includes/post_meta.php:353
+#, php-format
+msgid "Rejected <span class=\"count\">(%s)</span>"
+msgid_plural "Rejected <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/post_meta.php:356
+msgctxt "post"
+msgid "Expired"
+msgstr ""
+
+#: includes/post_meta.php:361
+#, php-format
+msgid "Expired <span class=\"count\">(%s)</span>"
+msgid_plural "Expired <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/widgets/blog-categories.php:64
+msgid "Blog categories"
+msgstr ""
+
+#: includes/widgets/blog-categories.php:68 includes/widgets/categories.php:128
+#: includes/widgets/contact-info.php:116
+#: includes/widgets/recent-blog-post.php:126
+#: includes/widgets/recent_posts_widget.php:346
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/categories.php:5
+msgid "Classiera Categories"
+msgstr ""
+
+#: includes/widgets/categories.php:134
+msgid "Counter:"
+msgstr ""
+
+#: includes/widgets/contact-info.php:11 includes/widgets/contact-info.php:13
+msgid "Contact Info Widget"
+msgstr ""
+
+#: includes/widgets/contact-info.php:100
+msgid "Contact Info"
+msgstr ""
+
+#: includes/widgets/contact-info.php:101
+msgid "About Description"
+msgstr ""
+
+#: includes/widgets/contact-info.php:102
+msgid "Change Address"
+msgstr ""
+
+#: includes/widgets/contact-info.php:103
+msgid "Put Your Email Here"
+msgstr ""
+
+#: includes/widgets/contact-info.php:104
+msgid "Change Phone"
+msgstr ""
+
+#: includes/widgets/contact-info.php:108
+msgid "Show Logo?"
+msgstr ""
+
+#: includes/widgets/contact-info.php:112
+msgid "Show About Description?"
+msgstr ""
+
+#: includes/widgets/contact-info.php:120
+msgid "About Description:"
+msgstr ""
+
+#: includes/widgets/contact-info.php:124
+msgid "Address:"
+msgstr ""
+
+#: includes/widgets/contact-info.php:129
+msgid "Email:"
+msgstr ""
+
+#: includes/widgets/contact-info.php:133
+msgid "Phone Number:"
+msgstr ""
+
+#: includes/widgets/recent-blog-post.php:6
+msgid "Show Latest Blog Posts."
+msgstr ""
+
+#: includes/widgets/recent-blog-post.php:7
+msgid "Blog Recent Posts"
+msgstr ""
+
+#: includes/widgets/recent-blog-post.php:32
+msgid "Recent Posts"
+msgstr ""
+
+#: includes/widgets/recent-blog-post.php:132
+msgid "Number of posts to show:"
+msgstr ""
+
+#: includes/widgets/recent-blog-post.php:140
+msgid "Display post date?"
+msgstr ""
+
+#: includes/widgets/recent_posts_widget.php:5
+msgid "Classiera recent posts"
+msgstr ""
+
+#: includes/widgets/recent_posts_widget.php:169
+#: includes/widgets/recent_posts_widget.php:268
+msgid "Category"
+msgstr ""
+
+#: includes/widgets/recent_posts_widget.php:351
+msgid "Post order"
+msgstr ""
+
+#: includes/widgets/recent_posts_widget.php:353
+msgid "Latest Ads"
+msgstr ""
+
+#: includes/widgets/recent_posts_widget.php:354
+msgid "Featured Ads"
+msgstr ""
+
+#: includes/widgets/recent_posts_widget.php:358
+msgid "Widget Style"
+msgstr ""
+
+#: includes/widgets/recent_posts_widget.php:360
+msgid "Style 1"
+msgstr ""
+
+#: includes/widgets/recent_posts_widget.php:361
+msgid "Style 2"
+msgstr ""
+
+#: includes/widgets/recent_posts_widget.php:368
+msgid "Post from"
+msgstr ""
+
+#: includes/widgets/recent_posts_widget.php:376
+msgid "If no categories are selected, all categories ads will be shown"
+msgstr ""
+
+#: includes/widgets/recent_posts_widget.php:388
+msgid "Number of posts to show"
+msgstr ""
+
+#: includes/widgets/social_widget.php:4
+msgid "A widget that displays your social icons"
+msgstr ""
+
+#: includes/widgets/social_widget.php:6
+msgid "Classiera: Social Icons"
+msgstr ""
+
+#: includes/widgets/social_widget.php:136
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/social_widget.php:140
+msgid "Note: Set your social links in the Theme Options"
+msgstr ""
+
+#: includes/widgets/social_widget.php:143
+msgid "Show Facebook"
+msgstr ""
+
+#: includes/widgets/social_widget.php:148
+msgid "Show Twitter"
+msgstr ""
+
+#: includes/widgets/social_widget.php:154
+msgid "Show Pinterest"
+msgstr ""
+
+#: includes/widgets/social_widget.php:159
+msgid "Show Flickr"
+msgstr ""
+
+#: includes/widgets/social_widget.php:164
+msgid "Show Google Plus"
+msgstr ""
+
+#: includes/widgets/social_widget.php:169
+msgid "Show YouTube"
+msgstr ""
+
+#: includes/widgets/social_widget.php:174
+msgid "Show Vimeo"
+msgstr ""
+
+#: includes/widgets/social_widget.php:178
+msgid "Show Instagram"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Classiera Helper"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://joinwebs.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Classiera Custom Post Type for Pricing Plans And Blog Post."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "JoinWebs"
+msgstr ""

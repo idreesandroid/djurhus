@@ -1,0 +1,11 @@
+2021-04-15T06:05:03+00:00 CRITICAL Uncaught Error: Call to undefined function tr_replace() in D:\xampp\htdocs\djurhus\wp-content\plugins\woocommerce\templates\single-product-reviews.php:57
+Stack trace:
+#0 D:\xampp\htdocs\djurhus\wp-includes\comment-template.php(1554): require()
+#1 D:\xampp\htdocs\djurhus\wp-content\plugins\woocommerce\templates\single-product\boxes\boxes.php(39): comments_template('reviews', Array)
+#2 D:\xampp\htdocs\djurhus\wp-content\plugins\woocommerce\includes\wc-core-functions.php(344): include('D:\\xampp\\htdocs...')
+#3 D:\xampp\htdocs\djurhus\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1539): wc_get_template('single-product/...')
+#4 D:\xampp\htdocs\djurhus\wp-includes\class-wp-hook.php(292): woocommerce_output_product_data_tabs('')
+#5 D:\xampp\htdocs\djurhus\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#6 D:\xampp\htdocs\djurhus\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#7 D:\xampp\htdocs\djurhus\wp-content\plugins\woocommerce\templates\content-single-product.p in D:\xampp\htdocs\djurhus\wp-content\plugins\woocommerce\templates\single-product-reviews.php on line 57
+

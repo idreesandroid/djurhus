@@ -1,0 +1,48 @@
+2021-04-21T09:02:15+00:00 CRITICAL Uncaught Error: Call to undefined function et_the_category() in D:\xampp\htdocs\djurhus\wp-content\themes\classiera\category.php:450
+Stack trace:
+#0 D:\xampp\htdocs\djurhus\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\djurhus\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\djurhus\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\djurhus\wp-content\themes\classiera\category.php on line 450
+
+2021-04-21T09:13:39+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Term as array in D:\xampp\htdocs\djurhus\wp-content\themes\classiera\category.php:625
+Stack trace:
+#0 D:\xampp\htdocs\djurhus\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\djurhus\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\djurhus\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\djurhus\wp-content\themes\classiera\category.php on line 625
+
+2021-04-21T09:14:12+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Term as array in D:\xampp\htdocs\djurhus\wp-content\themes\classiera\category.php:625
+Stack trace:
+#0 D:\xampp\htdocs\djurhus\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\djurhus\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\djurhus\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\djurhus\wp-content\themes\classiera\category.php on line 625
+
+2021-04-21T09:15:33+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Term as array in D:\xampp\htdocs\djurhus\wp-content\themes\classiera\category.php:591
+Stack trace:
+#0 D:\xampp\htdocs\djurhus\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\djurhus\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\djurhus\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\djurhus\wp-content\themes\classiera\category.php on line 591
+
+2021-04-21T09:18:31+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Term as array in D:\xampp\htdocs\djurhus\wp-content\themes\classiera\category.php:625
+Stack trace:
+#0 D:\xampp\htdocs\djurhus\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\djurhus\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\djurhus\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\djurhus\wp-content\themes\classiera\category.php on line 625
+
+2021-04-21T09:19:46+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Term as array in D:\xampp\htdocs\djurhus\wp-content\themes\classiera\category.php:626
+Stack trace:
+#0 D:\xampp\htdocs\djurhus\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\djurhus\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\djurhus\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\djurhus\wp-content\themes\classiera\category.php on line 626
+

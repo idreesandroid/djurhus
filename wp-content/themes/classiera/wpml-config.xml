@@ -1,0 +1,58 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">blog</custom-type>
+        <custom-type translate="1">price_plan</custom-type>
+        <custom-type translate="1">countries</custom-type>
+		<custom-type translate="1">states</custom-type>
+        <custom-type translate="1">cities</custom-type>
+    </custom-types>    
+    <taxonomies>
+        <taxonomy translate="1">blog_category</taxonomy>
+    </taxonomies> 
+	<admin-texts>
+		<key name="redux_demo">
+			<key name="footer_copyright" />
+			<key name="termsandcondition" />
+			<key name="classiera_gdpr_url" />
+			<key name="classiera_minimal_header_text" />
+			<key name="email_footer_copyright" />
+			<key name="locations-sec-title" />
+			<key name="locations-desc" />
+			<key name="plans-title" />
+			<key name="plans-desc" />
+			<key name="ad-desc" />
+			<key name="cat-sec-title" />
+			<key name="cat-sec-desc" />
+			<key name="homepage-v2-title" />
+			<key name="homepage-v2-desc" />
+			<key name="classiera_call_to_action_about" />
+			<key name="classiera_call_to_action_about_desc" />
+			<key name="classiera_call_to_action_sell" />
+			<key name="classiera_call_to_action_sell_desc" />
+			<key name="classiera_call_to_action_buy" />
+			<key name="classiera_call_to_action_buy_desc" />
+			<key name="callout_title" />
+			<key name="callout_title_second" />
+			<key name="callout_desc" />
+			<key name="callout_btn_text" />
+			<key name="callout_btn_text_two" />
+			<key name="callout_btn_icon_code_two" />
+			<key name="callout_btn_url" />
+			<key name="callout_btn_url_two" />
+			<key name="classiera_blog_section_title" />
+			<key name="classiera_blog_section_desc" />
+			<key name="premium-sec-title" />
+			<key name="premium-sec-desc" />
+			<key name="trns_new_post_posted" />
+			<key name="trns_welcome_user_title" />
+			<key name="trns_listing_published" />
+			<key name="contact-email-error" />
+			<key name="contact-name-error" />
+			<key name="contact-message-error" />
+			<key name="contact-thankyou-message" />
+			<key name="contact-address" />
+			<key name="contact-phone" />
+			<key name="contact-phone2" />
+		</key>
+	</admin-texts>
+</wpml-config>

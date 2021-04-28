@@ -1,0 +1,10 @@
+2021-04-11T20:14:27+00:00 CRITICAL syntax error, unexpected '&&' (T_BOOLEAN_AND) in D:\xampp\htdocs\djurhus\wp-content\themes\classiera\search.php on line 681
+
+2021-04-11T20:42:20+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in D:\xampp\htdocs\djurhus\wp-content\themes\classiera\search.php:665
+Stack trace:
+#0 D:\xampp\htdocs\djurhus\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\djurhus\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\djurhus\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\djurhus\wp-content\themes\classiera\search.php on line 665
+
